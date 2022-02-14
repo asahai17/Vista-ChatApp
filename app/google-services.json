@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301735005866",
+    "project_id": "vista-89ae6",
+    "storage_bucket": "vista-89ae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301735005866:android:045f52af491febecdc0ad3",
+        "android_client_info": {
+          "package_name": "com.example.vista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301735005866-sm4bnjmvfd5pd1l1asd6o8ikhkvb67gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDisl-Ige1sIuwzxEzWOEPHJkS5u1qJSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301735005866-sm4bnjmvfd5pd1l1asd6o8ikhkvb67gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
